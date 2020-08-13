@@ -6,3 +6,11 @@
   width: 35%;
   text-align: center;
 }
+
+.mute-btn {
+  border: none;
+  border-radius: 10px;
+  padding: 10px 30px;
+  color: #fff;
+  background-color: #EA2027;
+}
